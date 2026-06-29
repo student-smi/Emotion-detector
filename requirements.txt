@@ -11,3 +11,9 @@ tensorflow
 
 pillow
 streamlit-drawable-canvas
+
+streamlit
+tensorflow-cpu==2.15.1
+numpy
+pillow
+streamlit-drawable-canvas
