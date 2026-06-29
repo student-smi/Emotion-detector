@@ -5,3 +5,9 @@ nltk
 scikit-learn
 matplotlib
 seaborn
+
+
+tensorflow
+
+pillow
+streamlit-drawable-canvas
